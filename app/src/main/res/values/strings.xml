@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">SavingsApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="skip">SKIP</string>
+    <string name="yes">YES</string>
+    <string name="cancel">OK</string>
+    <string name="activepic">OK</string>
+    <string name="settings">Go to <b>Settings</b></string>
+
+    <string name="slide_1_title">Welcome to Power!</string>
+        
+    <string name="slide_1_desc">Turn your appliances on/off remotely and view their consumption report as well!</string>
+     
+     <string name="next">NEXT</string>
+    <string name="start">GOT IT</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">home</string>
+    <string name="wid">ID</string>
+
 </resources>
